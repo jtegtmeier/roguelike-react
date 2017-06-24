@@ -1,0 +1,8 @@
+{
+  "short_name": "Roguelike Game",
+  "name": "A Roguelike Game - React|Redux|Canvas|NodeJS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
